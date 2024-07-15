@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "braided-verve-374914",
+  "private_key_id": "c48203055ff0af20be4134d806af3631ddf6478a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCyNZW0ndUyueA9\nAUnrxF0ou05c0D9kyIkXzjVqCe7XjTZB9GwStcwYOLUht9mCS2PsIM893SbNrS1p\nFBjeTMgDpBQsulsY1Tzwyri3JQTBr56FLYxJKD629ePbopvy+oZtZhRWXFnDKRK1\n/K6jXZ9t/+zhNNwlSj91qDDLPtx1ppMcT3DEIoWU3BRKCpp0MpBbxXBo11J0e7KZ\nYdc3iLgUx4Z1corj7Fp6Fr/uap4975MY23rNUErBJbRo4PAZZPEQOnC03glMrYU5\n3qQ3YUHYi8qbTO64/tIpAB6OIRMzWvmwQylSFKSz+icihrXLDQtL7A2hrPSkMXB9\ns7DcXjiFAgMBAAECggEADp1LWiUJa2AH7ijRZZbUZvc5XW4sjLjPWVbtVXVcE2w+\ns1j2lfA3vRLFc+7uVPuWxbIJHNMqj/pwO2pNAcn9KyNFDkf4GYi/NyYA0PAlvDaJ\nQvWxx/wXbIyss4HZ1SrLZGRXLZ/kMpeHM8p1jesrHGu9AtkBZsN4gc8ZtUlB7hno\nQY7g1dhVbdthPWJr6EqdjFfAtVB9j8Pfg3no69bzElE3hs32GZCtdV4DIFBMxvvJ\nlgSyjilAIbqrMstxr7Uf5nIijnnTJkaTQTYUFR9NCyLABvFnnI/IyZ68QqYoArI5\nWHkny99Uyy5mukLHNNDXAfIy2vapiwWCTJkMCQXY4QKBgQDtxgqMOTbGzSAYrO5i\n6VGs8hCuhaof6w5X+/SAVUD+VgzWLauoVJzJKE2H1vX6PdeqDXHx00x71oRvtFhQ\nWuy+j+ae3iHeZcNnry4Ay8g3z8r2OAxQGLsxZi0h5uJvxm6ThPjFRu90hB+8+52v\n/yzvEm+Bs1ldAJVVGJ44xUXUcQKBgQC/3q6FxHn8dHtpob8nPfmX5NJDX2qBkg0+\nEQjQ9CYBj9hlEWGfijNwi9nqIDMeNiEThJ9/viBfrBMKqr0LVpenPqohHhgLXVd0\nOA5LGbMWEHrBNNyc6bHC2LXLQ5oPoR4HrlO82krPU3L2KNbOCcuW0Qrz88eTpy4D\nbkKqdUUfVQKBgQCf84Su9eIidGUuFE89XMWj+Sc9sA9U73QzvfupxTA2qD50aj66\nu0jJjYIyamoIkEefTvIjAsjF2fY3ivOKAtCWFQnIP5g7GuwLuO3SfUPQP8nCPswR\nqcFrptefockb9jn2pRIQ6/ozwJn1MLLQbXGV1ioK71KjXLwYhboSaKrkEQKBgFkb\nLanqCUz5O6de+stauOOV3SB02525GnVMq+9+s3feOf0WCWRyZllKWbWlppfNQ6cw\n3HIS9i34WA+II6t0V5HQRGqE812zx72tmtW95bHFjXzU8+/biDaZNjRj/NRtWuju\nSO1X445NjwJLDRc67VXpV1DcUj98UJ4/Qq6vL57RAoGAAXZLQ73nR0ROWUcvGIL1\nPA4aZH7u+mTqZ5hiKmcuFkd1AVpiaSjpDC3+ZoGOxGd4yy63Ka5xO9BiO9ofOf4p\nWGSRGREBsOz1Za8ioQushIlVf4pDaRF0nXgI4Jo0/VI3+txle2drn+MwjkYdxmrR\nMqKa1GLRWl3rAQmGXefRQfA=\n-----END PRIVATE KEY-----\n",
+  "client_email": "beamble-app-translator@braided-verve-374914.iam.gserviceaccount.com",
+  "client_id": "111446465748060755376",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/beamble-app-translator%40braided-verve-374914.iam.gserviceaccount.com"
+}
