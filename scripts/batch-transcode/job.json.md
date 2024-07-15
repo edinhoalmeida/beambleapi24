@@ -1,0 +1,1 @@
+https://docs.aws.amazon.com/mediaconvert/latest/ug/sample-acceleration-job-settings-in-json.html
