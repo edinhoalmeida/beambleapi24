@@ -1,0 +1,31 @@
+openapi: 3.0.0
+info:
+  title: Beamble API V2
+  version: 0.2
+servers:
+  - url: https://api.beamble.com/api
+    description: Main (production) server
+  - url: http://api.beamble.local/api
+    description: Internal staging server for testing
+paths:
+  /api/follow/{beamer_id}:
+    get:
+      summary: Follow/Unfollow a beamer.
+      description: If logged user is following do a unfollowing
+      tags:
+        - beamer
+      responses:
+        '200':    # status code
+          description: A JSON object with
+          content:
+            application/json:
+              schema: 
+                type: object
+                properties: 
+                  total:
+                    type: integer
+                  this_user_follow:
+                    type: enum[0, 1]
+                example:
+                  total: 12
+                  this_user_follow: 1

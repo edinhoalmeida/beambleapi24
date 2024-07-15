@@ -1,0 +1,37 @@
+{
+  "resources/css/app.css": {
+    "file": "assets/app.7c3c19f8.js",
+    "src": "resources/css/app.css",
+    "isEntry": true
+  },
+  "resources/js/team/team.js": {
+    "file": "assets/team.8c52df3b.js",
+    "src": "resources/js/team/team.js",
+    "isEntry": true
+  },
+  "resources/js/team/login.js": {
+    "file": "assets/login.fa78ae40.js",
+    "src": "resources/js/team/login.js",
+    "isEntry": true
+  },
+  "resources/js/team/lte-minimal.js": {
+    "file": "assets/lte-minimal.afc10b58.js",
+    "src": "resources/js/team/lte-minimal.js",
+    "isEntry": true
+  },
+  "resources/js/app.js": {
+    "file": "assets/app.6d1a6c1c.js",
+    "src": "resources/js/app.js",
+    "isEntry": true
+  },
+  "resources/css/sass/team.scss": {
+    "file": "assets/team.921a50e6.css",
+    "src": "resources/css/sass/team.scss",
+    "isEntry": true
+  },
+  "resources/css/sass/webview/webview.scss": {
+    "file": "assets/webview.7e402be3.css",
+    "src": "resources/css/sass/webview/webview.scss",
+    "isEntry": true
+  }
+}

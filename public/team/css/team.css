@@ -1,0 +1,66 @@
+.login-page .logo-login {
+  width: 3rem;
+}
+
+.dash-page .logo-login {
+  width: 3rem;
+}
+.dash-page .content-header i.fas, .dash-page .content-header i.far {
+  opacity: 0.2;
+}
+.dash-page .card-footer {
+  padding-top: 1rem;
+  padding-bottom: 1.2rem;
+}
+
+.bf {
+  font-family: "Source Sans Pro";
+}
+
+.bc {
+  color: #4438a1 !important;
+}
+.bc:hover {
+  color: #4438a1 !important;
+}
+
+.btn-primary {
+  background-color: #4438a1;
+}
+.btn-primary:hover {
+  background-color: #584f9b;
+}
+
+.main-footer {
+  padding-top: 4px;
+  padding-bottom: 4px;
+}
+
+.sidebar-dark-primary .nav-sidebar > .nav-item > .nav-link.active, .sidebar-light-primary .nav-sidebar > .nav-item > .nav-link.active {
+  background-color: #4438a1;
+}
+
+.bg-success.bg-beamble {
+  background-color: #4438a1 !important;
+}
+
+.info-box .info-box-number {
+  font-size: 2rem;
+}
+.info-box .info-box-number small {
+  font-size: 0.7rem;
+}
+
+.beamble-icon {
+  width: 45px;
+}
+
+.beamble-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 5px;
+  width: 100%;
+}
+.beamble-row > div {
+  width: 32%;
+}

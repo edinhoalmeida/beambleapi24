@@ -1,0 +1,38 @@
+body {
+  padding-top: 5rem;
+}
+.starter-template {
+  padding: 3rem 1.5rem;
+  text-align: center;
+}
+
+.starter-template-small {
+  max-width: 600px;
+}
+
+.text-to-left {
+  text-align: left !important;
+}
+#mapGig {
+  position: relative;
+  height: 300px;
+  width: 100%;
+  border: 1px solid #666666; 
+}
+#mapRec {
+  position: relative;
+}
+.icon_m {
+  font-size: 1.5em;
+  color: #000000;
+}
+a.icon_m {
+  color: #000000;
+}
+.links_cancel_ul {
+  text-decoration: underline;
+  color: #000000;
+}
+.bi {
+  color: #000000;
+}
